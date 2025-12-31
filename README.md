@@ -1,4 +1,4 @@
-# [Regex-Vis](https://regex-vis.com)
+# [Regex Vis](https://regex-vis.com)
 🎨 Regex visualizer & editor
 
 ## Preview
